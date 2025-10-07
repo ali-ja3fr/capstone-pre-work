@@ -47,15 +47,9 @@ A Tableau workbook is included with **basic race insights**, such as:
 ---
 
 ## 📁 Repository Contents
-- `data/` → Processed datasets (CSV/SQL).  
+- `data/` → Processed datasets (CSV).  
 - `notebooks/` → Python scripts for cleaning and enrichment.  
 - `tableau/` → Tableau workbook with exploratory visualizations.  
-
----
-
-## 🚀 Next Steps
-- going deep in the analysis
-- Explore correlations between weather, tyre choices, and lap time consistency.  
 
 ---
 
